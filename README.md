@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1><b>ABHINAV SINGH </b></h1>
-<h3><b><mark>BTECH CSE (AI)</b></mark></h3>
+<h3><b><u>BTECH CSE (AI)</b></u></h3>
 <p>Hello! I am<b> Abhinav</b>.I love coding </p>
 <div id ="skills" class ="group">
 <h2>Skills</h2>
