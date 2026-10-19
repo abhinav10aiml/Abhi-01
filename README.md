@@ -8,7 +8,7 @@
 <body>
 <h1><b>ABHINAV SINGH </b></h1>
 <h3><b><u>BTECH CSE (AI)</b></u></h3>
-<p>Hello! I am<em> Abhinav</em>.I love coding </p>
+<p>Hello! I am<b> Abhinav</b>.I love coding </p>
 <div id ="skills" class ="group">
 <h2>Skills</h2>
 <p>Html , CSS, javascript <br>Learning: Javascript , Java </p>
