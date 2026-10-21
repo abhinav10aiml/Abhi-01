@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css.css">
-<title >Page 1</title >
+
 </head>
 <body>
 <br>
