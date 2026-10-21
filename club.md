@@ -5,7 +5,7 @@
 <title >Page 1</title >
 </head>
 <body>
-
+<br>
 <nav>
  <a href="#register">Home</a>|
   <a href="#about">About </a>|
