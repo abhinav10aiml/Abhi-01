@@ -7,9 +7,9 @@
 
     <style>
         :root {
-            --brand: #2f5bea;
+            --brand: #5a951f;
             --light: #eef2ff;
-            --dark: #1b2440;
+            --dark: #4e6ece;
             --gap: 16px;
         }
 
