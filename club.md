@@ -112,6 +112,7 @@
 <br>
 <br>
                 <label for="discription">why you want to join?</label>
+                <br>
                 
            
                             <textarea id="discription" name="discription" rows="3" cols="30" min="0" max=500></textarea>
