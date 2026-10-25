@@ -6,13 +6,13 @@
 <style>
  /* width will include padding and border (easier maths!) */
  * { box-sizing: border-box; }
- body { margin: 0; font-family: Arial, sans-serif; background: #eef2f8; }
+ body { margin: 0; font-family: Arial, sans-serif; background: #eef6f2; }
  /* sticky = stays at the top while you scroll */
  header {
  position: sticky;
  top: 0;
  z-index: 10;
- background: #12203a;
+ background: #12003a;
  color: white;
  padding: 14px;
  text-align: center;
@@ -63,14 +63,12 @@
 </head>
 <body>
  <header>My Profile Page</header>
- <div class="card"> Web Development - Weekly Assignments (Week 2 to 9) Page 13
+ <div class="card"> 
  <div class="avatar">R</div>
- <h2>Riya Verma</h2>
- <p>Web Developer in Making</p>
+ <h2><b>ABHINAV SINGH</b></h2>
+ <p>Web Developer</p>
  <div class="bio">
- Hi! I am Riya. I started coding this year. I like making small websites,
- drawing and listening to music. My goal is to build my own app. This long
- text is here so that the box shows a scroll bar. Try scrolling it!
+ Hi! I am Abhinav Singh, a first-year BTech CSE student specializing in Artificial Intelligence. I started learning coding this year and enjoy exploring new technologies, solving coding problems, and creating websites. I am currently learning Java, HTML, CSS, and JavaScript. My goal is to become an AI engineer and build my own applications. I believe in learning step by step and improving my skills every day.
  </div>
  </div>
  <button class="fab">+</button>
