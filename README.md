@@ -80,9 +80,7 @@ flowchart TD
 
 ---
 
-://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-</div>
 
 
 ---
