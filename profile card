@@ -21,7 +21,7 @@
  width: 280px;
  margin: 24px auto;
  background: white;
- border: 2px solid #2f5bea;
+ border: 2px solid #2f3eba;
  border-radius: 16px;
  padding: 20px;
  text-align: center;
@@ -64,7 +64,7 @@
 <body>
  <header>My Profile Page</header>
  <div class="card"> 
- <div class="avatar">R</div>
+ <div class="avatar">A</div>
  <h2><b>ABHINAV SINGH</b></h2>
  <p>Web Developer</p>
  <div class="bio">
